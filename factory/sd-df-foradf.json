@@ -1,0 +1,9 @@
+{
+	"name": "sd-df-foradf",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "604a159e-58cd-4813-8c26-cb154d9f474c",
+		"tenantId": "28007d9c-157d-4e53-849a-f0194608ae1a"
+	}
+}
